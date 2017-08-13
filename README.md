@@ -6,4 +6,4 @@
 
 ## SPOILER ALERT
 
-Posible solución [aquí](http://puntocomnoesunlenguaje.blogspot.com.es/2012/10/java-ejercicios-iniciales.html).
+Posible solución [aquí](http://puntocomnoesunlenguaje.blogspot.com.es/2012/06/java-ejercicios-basicos-resueltos-1.html).
