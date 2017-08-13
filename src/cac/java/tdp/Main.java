@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Ejercicio 10: Programa Java que
+ * Lee un número entero por teclado y obtiene y muestra por pantalla el doble y el triple de ese número.
  */
 package cac.java.tdp;
 
@@ -15,7 +14,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo!!");
+        
     }
     
 }
