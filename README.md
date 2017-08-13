@@ -1,3 +1,9 @@
 # Ejercicios sobre tecnicas de programación (TDP) en Java
 
-Los ejercicios estan separados en diferentes ramas del repositorio, la idea es que cada estudiante descargue el repositorio, elija uno de los ejercicios y lo resuelva.
+## EJERCICIO 16: Programa java que realice lo siguiente
+
+* Calcula el área de un triángulo a partir de la longitud de sus lados.
+
+## SPOILER ALERT
+
+Posible solución [aquí](http://puntocomnoesunlenguaje.blogspot.com.es/2012/10/java-ejercicios-iniciales.html).
