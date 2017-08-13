@@ -1,3 +1,9 @@
 # Ejercicios sobre tecnicas de programación (TDP) en Java
 
-Los ejercicios estan separados en diferentes ramas del repositorio, la idea es que cada estudiante descargue el repositorio, elija uno de los ejercicios y lo resuelva.
+## EJERCICIO 08: Programa java que realice lo siguiente
+
+* Lea dos números enteros por teclado y los muestre por pantalla.
+
+## SPOILER ALERT
+
+Posible solución [aquí](http://puntocomnoesunlenguaje.blogspot.com.es/2012/06/java-ejercicios-basicos-resueltos-1.html).
