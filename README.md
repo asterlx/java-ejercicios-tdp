@@ -45,3 +45,25 @@ Los ejercicios estan separados en diferentes ramas del repositorio, la idea es q
 * [Ejercicio 19](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio19) Programa que lea un número entero N de 5 cifras y muestre sus cifras desde el final igual que en el ejemplo.
 
 * [Ejercicio 20](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio20) Programa que calcula el número de la suerte de una persona a partir de su fecha de nacimiento.
+
+## Ejercicios Básicos con Estructura Condicional
+
+* [Ejercicio 21](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio21) Programa Java que lea un número entero y calcule si es par o impar.
+
+* [Ejercicio 22](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio22) Programa que lea un número entero y muestre si el número es múltiplo de 10.
+
+* [Ejercicio 23](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio23) Programa que lea un carácter por teclado y compruebe si es una letra mayúscula.
+
+* [Ejercicio 24](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio24) Programa que lea dos caracteres por teclado y compruebe si son iguales.
+
+* [Ejercicio 25](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio25) Programa que lea dos caracteres y compruebe si son dos letras minúsculas.
+
+* [Ejercicio 26](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio26) Programa que lea un carácter y compruebe si es un número (Carácter entre '0' y '9'). 
+
+* [Ejercicio 27](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio27) Programa que lea dos números por teclado y muestre el resultado de la división del primero por el segundo. Se debe comprobar que el divisor no puede ser cero. 
+
+* [Ejercicio 28](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio28) Calcular el mayor de tres números enteros en Java.
+
+* [Ejercicio 29](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio29) Programa que lea tres números enteros H, M, S que contienen hora, minutos y segundos respectivamente, y comprueba si la hora que indican es una hora válida.
+
+* [Ejercicio 30](https://github.com/CaC-305/java-ejercicios-tdp/tree/ejercicio30) Programa que lea una variable entera mes y compruebe si el valor corresponde a un mes de 30, 31 o 28 días. Se mostrará además el nombre del mes. Se debe comprobar que el valor introducido esté comprendido entre 1 y 12.
