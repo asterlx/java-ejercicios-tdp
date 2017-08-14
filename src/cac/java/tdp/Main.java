@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Ejercicio 27: Programa que lea dos números por teclado y muestre el
+ * resultado de la división del primero por el segundo. Se debe comprobar que
+ * el divisor no puede ser cero. 
  */
 package cac.java.tdp;
 
@@ -15,7 +15,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo!!");
+        
     }
     
 }
