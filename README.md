@@ -1,6 +1,6 @@
 # Ejercicios sobre tecnicas de programación (TDP) en Java
 
-## EJERCICIO 08: Programa java que realice lo siguiente
+## EJERCICIO 23: Programa java que realice lo siguiente
 
 * Lea un carácter por teclado y compruebe si es una letra mayúscula.
 
