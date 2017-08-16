@@ -17,16 +17,18 @@ public class Main {
      */
     public static void main(String[] args) {
         
-        int rango1 = 0;
-        int F = 0;
+        double rango1 = 0d;
+        double F = 0;
         
         Scanner teclado = new Scanner (System.in);
 
-        System.out.println ("Escriba el primero numero del rango: ");
+        System.out.println ("Escriba los grado centrigados que quiere convertir: ");
         
-        rango1 = teclado.nextInt();
+        rango1 = teclado.nextDouble();
         
-        System.out.println ((F) = 32 + ( 9 * (rango1) / 5));
+        F = 32 + ( 9 * (rango1) / 5);
+        
+        System.out.println (F+ "° F");
         
     }
     
