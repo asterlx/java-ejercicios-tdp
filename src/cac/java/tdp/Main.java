@@ -21,7 +21,18 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int N = 3;
+        double A = 8.5;
+        char C = 'x';
+        
+        System.out.println("Variable N = " + N);
+        System.out.println("Variable N = " + A);
+        System.out.println("Variable N = " + C);
+        System.out.println(N + " + " + A + " = " + (N+A));
+        System.out.println(A + " - " + N + " = " + (A-N));
+        System.out.println("Valor numérico del carácter " + C + " = " + (int)C);
         
     }
-    
+   
+   
 }
